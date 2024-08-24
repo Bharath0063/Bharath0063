@@ -4,32 +4,31 @@
 
 ### Hi there, I'm Bharath! 👋
 
-I'm an enthusiastic software developer from India, specializing in full stack development and application Development. I enjoy creating practical solutions for real-world problems, constantly exploring new technologies to enhance my skills.
+I'm an enthusiastic software developer from India, specializing in Java full stack development. I enjoy creating practical solutions for real-world problems, constantly exploring new technologies to enhance my skills.
 
 ---
 
 ### 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS Badge">
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaran-raja&layout=compact&theme=merko)
-
-![Deva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prdeva&show_icons=true&theme=merko)
-![Deva's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prdeva&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath0063&layout=compact&theme=merko)
+![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharath0063&show_icons=true&theme=merko)
+![Bharath's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharath0063&theme=merko)
 
 ---
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deva-p-90a674245)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/prdeva)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar-k-51a08224a)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_d.e_.v.a_?igsh=MTZ4NWl0ZWtyM2R5ZA==)
 
 
@@ -40,7 +39,7 @@ I'm an enthusiastic software developer from India, specializing in full stack de
 
 ### 📊 Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=prdeva&color=blueviolet&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=Bharath&color=blueviolet&style=flat)
 
 ---
 
