@@ -1,11 +1,8 @@
 
 # 💫 About Me:
-
-
 ### Hi there, I'm Bharath! 👋
 
 I'm an enthusiastic software developer from India, specializing in Java full stack development. I enjoy creating practical solutions for real-world problems, constantly exploring new technologies to enhance my skills.
-
 ---
 # 💻 Tech Stack:
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -24,8 +21,7 @@ I'm an enthusiastic software developer from India, specializing in Java full sta
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) 
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 # 📊 GitHub Stats:
@@ -33,32 +29,18 @@ I'm an enthusiastic software developer from India, specializing in Java full sta
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bharath0063&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath0063&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
-### 📫 Connect with Me
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar-k-51a08224a)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_d.e_.v.a_?igsh=MTZ4NWl0ZWtyM2R5ZA==)
-
-
-
-
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/bharathkum48994?t=izLXyPbQPODwscfJZCNQZg&s=09)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/its_bharath__07?igsh=MWdsZml2NXJkMHlzZw==)
 ---
-
-
-### 📊 Visitor Count
-
+## 📊 Visitor Count:
 ![Visitor Count](https://komarev.com/ghpvc/?username=Bharath&color=blueviolet&style=flat)
-
 ---
-
-Feel free to reach out if you'd like to collaborate on any project or just want to say hi!
-
+  Feel free to reach out if you'd like to collaborate on any project or just want to say hi!<br/>
+  My gmail id:bharathkandhan96@gmail.com
 ---
-
-### 📝 License
-
+### 📝 License:
 This repository and its contents are licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-
 ---
